@@ -140,14 +140,6 @@ void moveMotor(float motorAngle)
 
 float readMotorAngle()
 {
-    /*
-       SERVO42C encoder response goes here.
-
-       The function will return the actual
-       motor-shaft angle once the V1.1 response
-       bytes are decoded.
-    */
-
     return 0.0;
 }
 
